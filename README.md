@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/customer-intelligence-banner.svg" alt="Customer Intelligence banner" width="100%" />
+  <img src="Images/customer_churn_banner.svg" alt="Customer Intelligence banner" width="100%" />
 </p>
 
 # Customer Churn Prediction
