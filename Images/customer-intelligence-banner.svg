@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 480" width="1440" height="480" role="img" aria-labelledby="title description">
+  <title id="title">Customer Intelligence</title>
+  <desc id="description">Predicting Customer Churn Through Machine Learning. An abstract customer network connects cyan customer nodes and purple risk signals on a midnight navy background. Decorative signals do not represent model results.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="480" rx="24" fill="url(#background)"/>
+  <g fill="none" stroke="#F8FAFC" stroke-opacity=".05">
+    <path d="M880 0v480M1000 0v480M1120 0v480M1240 0v480M1360 0v480M820 80h620M820 200h620M820 320h620M820 440h620"/>
+    <circle cx="1130" cy="238" r="164"/>
+    <circle cx="1130" cy="238" r="112"/>
+  </g>
+  <rect x="64" y="64" width="40" height="4" rx="2" fill="#22D3EE"/>
+  <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    <text x="120" y="73" font-size="16" font-weight="600" letter-spacing="3" fill="#B8C7E6">ML ENGINEERING / CUSTOMER ANALYTICS</text>
+    <text x="64" y="184" font-size="58" font-weight="700" letter-spacing="1" fill="#F8FAFC">CUSTOMER</text>
+    <text x="64" y="251" font-size="58" font-weight="700" letter-spacing="1" fill="#F8FAFC">INTELLIGENCE</text>
+    <text x="66" y="304" font-size="23" fill="#D9E5F7">Predicting Customer Churn Through Machine Learning</text>
+    <rect x="66" y="347" width="452" height="1" fill="url(#accent)"/>
+    <text x="66" y="390" font-size="16" font-weight="600" letter-spacing="2" fill="#22D3EE">LOGISTIC REGRESSION</text>
+    <circle cx="326" cy="384" r="2" fill="#B8C7E6"/>
+    <text x="344" y="390" font-size="16" letter-spacing="2" fill="#B8C7E6">CASE STUDY</text>
+  </g>
+  <g fill="none" stroke-width="1.5">
+    <path d="m916 166 102-72 112 144 118-118 94 94-100 138-112-114-154 108-60-180 242 72 84-24M1018 94l230 26-6 232-266-6" stroke="#22D3EE" stroke-opacity=".25"/>
+    <path d="m1018 94 112 144 112 114M916 166l214 72 118-118" stroke="url(#accent)" stroke-opacity=".75"/>
+    <circle cx="1130" cy="238" r="49" stroke="#22D3EE" stroke-opacity=".18"/>
+    <circle cx="1242" cy="352" r="24" stroke="#8B5CF6" stroke-opacity=".5"/>
+    <circle cx="1018" cy="94" r="20" stroke="#8B5CF6" stroke-opacity=".5"/>
+  </g>
+  <g fill="#0C1A30" stroke="#22D3EE" stroke-width="2">
+    <circle cx="916" cy="166" r="9"/>
+    <circle cx="976" cy="346" r="9"/>
+    <circle cx="1248" cy="120" r="9"/>
+    <circle cx="1342" cy="214" r="9"/>
+  </g>
+  <g fill="#8B5CF6" stroke="#C4B5FD" stroke-width="1.5">
+    <circle cx="1018" cy="94" r="7"/>
+    <circle cx="1242" cy="352" r="9"/>
+  </g>
+  <circle cx="1130" cy="238" r="31" fill="#22D3EE"/>
+  <g fill="none" stroke="#07111F" stroke-width="2.5" stroke-linecap="round">
+    <circle cx="1130" cy="230" r="7"/>
+    <path d="M1116 250c0-12 28-12 28 0"/>
+  </g>
+  <path d="M64 439h1312" stroke="#F8FAFC" stroke-opacity=".1"/>
+  <rect x="64" y="438" width="168" height="2" fill="url(#accent)"/>
+</svg>
